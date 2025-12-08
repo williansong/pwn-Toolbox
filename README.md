@@ -8,7 +8,7 @@ In practice, continuously supplement tools and scripts related to pwn questions.
 #usage
 
 python3 elf_exec_find.py [elf_file_name]
-<img width="1207" height="438" alt="elf_exec_find" src="https://github.com/user-attachments/assets/c9605b46-f5c0-40a2-9c09-458b86657f20" />
+![image1](images/elf_exec_find.png)
 
 #2、float2hex.py
 
@@ -17,4 +17,4 @@ python3 elf_exec_find.py [elf_file_name]
 #usage
 
 python3 float2hex.py 0.1
-<img width="914" height="415" alt="float2hex" src="https://github.com/user-attachments/assets/77777da0-df7a-4e71-96b2-56fcb4ed4003" />
+![image2](images/float2hex.png)
